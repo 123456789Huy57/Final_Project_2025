@@ -1,0 +1,23 @@
+[
+    {
+        "ID": "M1",
+        "Full_Name": "Lâm Hồng Thanh",
+        "Gender": "Nu",
+        "Username": "thanhlh",
+        "Password": "123"
+    },
+    {
+        "ID": "M2",
+        "Full_Name": "Lê Thị Kim Hiền",
+        "Gender": "Nu",
+        "Username": "hienltk",
+        "Password": "456"
+    },
+    {
+        "ID": "M3",
+        "Full_Name": "Trần Duy Thanh",
+        "Gender": "Nam",
+        "Username": "thanhtd",
+        "Password": "789"
+    }
+]

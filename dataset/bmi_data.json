@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2025-03-21",
+        "weight": 60.0,
+        "height": 1.8,
+        "bmi": 18.52,
+        "username": "teo"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 78.0,
+        "height": 1.8,
+        "bmi": 24.07,
+        "username": "teo"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 80.0,
+        "height": 1.9,
+        "bmi": 22.16,
+        "username": "teo"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 75.0,
+        "height": 1.9,
+        "bmi": 20.78,
+        "username": "teo"
+    },
+    {
+        "date": "2025-03-21",
+        "weight": 80.0,
+        "height": 1.9,
+        "bmi": 22.16,
+        "username": "teo"
+    }
+]
